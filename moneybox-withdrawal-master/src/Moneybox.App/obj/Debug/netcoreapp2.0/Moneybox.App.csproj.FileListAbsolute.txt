@@ -1,0 +1,9 @@
+C:\Users\Bill I\Desktop\moneybox-withdrawal-master\src\Moneybox.App\bin\Debug\netcoreapp2.0\Moneybox.App.deps.json
+C:\Users\Bill I\Desktop\moneybox-withdrawal-master\src\Moneybox.App\bin\Debug\netcoreapp2.0\Moneybox.App.dll
+C:\Users\Bill I\Desktop\moneybox-withdrawal-master\src\Moneybox.App\bin\Debug\netcoreapp2.0\Moneybox.App.pdb
+C:\Users\Bill I\Desktop\moneybox-withdrawal-master\src\Moneybox.App\obj\Debug\netcoreapp2.0\Moneybox.App.csprojAssemblyReference.cache
+C:\Users\Bill I\Desktop\moneybox-withdrawal-master\src\Moneybox.App\obj\Debug\netcoreapp2.0\Moneybox.App.csproj.CoreCompileInputs.cache
+C:\Users\Bill I\Desktop\moneybox-withdrawal-master\src\Moneybox.App\obj\Debug\netcoreapp2.0\Moneybox.App.AssemblyInfoInputs.cache
+C:\Users\Bill I\Desktop\moneybox-withdrawal-master\src\Moneybox.App\obj\Debug\netcoreapp2.0\Moneybox.App.AssemblyInfo.cs
+C:\Users\Bill I\Desktop\moneybox-withdrawal-master\src\Moneybox.App\obj\Debug\netcoreapp2.0\Moneybox.App.dll
+C:\Users\Bill I\Desktop\moneybox-withdrawal-master\src\Moneybox.App\obj\Debug\netcoreapp2.0\Moneybox.App.pdb
